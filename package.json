@@ -1,6 +1,6 @@
 {
-  "name": "template-polyfill",
-  "version": "2.0.0",
+  "name": "es6-template-polyfill",
+  "version": "0.0.1",
   "description": "A polyfill for the HTML5 <template> tag.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffcarp/template-polyfill.git"
+    "url": "git+https://github.com/samuelthomps0n/template-polyfill.git"
   },
-  "author": "Jeff Carpenter <gcarpenterv@gmail.com>",
+  "author": "Samuel Thompson <sam@samuelthompson.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeffcarp/template-polyfill/issues"
+    "url": "https://github.com/samuelthomps0n/template-polyfill/issues"
   },
-  "homepage": "https://github.com/jeffcarp/template-polyfill#readme"
+  "homepage": "https://github.com/samuelthomps0n/template-polyfill#readme"
 }
